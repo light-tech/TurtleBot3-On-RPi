@@ -1,0 +1,25 @@
+repositories:
+  tb3/DynamixelSDK:
+    type: git
+    url: https://github.com/light-tech/DynamixelSDK.git
+    version: ros2-devel
+  tb3/turtlebot3_msg:
+    type: git
+    url: https://github.com/light-tech/turtlebot3_msgs.git
+    version: ros2-devel
+  tb3/turtlebot3:
+    type: git
+    url: https://github.com/light-tech/turtlebot3.git
+    version: ros2-devel
+  tb3/hls_lfcd_lds_driver:
+    type: git
+    url: https://github.com/light-tech/hls_lfcd_lds_driver.git
+    version: ros2-devel
+  tb3/camera_ros:
+    type: git
+    url: https://github.com/christianrauch/camera_ros.git
+    version: main
+  ros-perception/vision_opencv:
+    type: git
+    url: https://github.com/light-tech/vision_opencv.git
+    version: humble
